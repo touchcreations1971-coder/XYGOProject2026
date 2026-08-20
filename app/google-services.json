@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22287944023",
+    "project_id": "xygo-a55fa",
+    "storage_bucket": "xygo-a55fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22287944023:android:b2021691acd844248d1612",
+        "android_client_info": {
+          "package_name": "com.xygo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAthVbMv0lRUn4-kslJZ4HszWz9lSpHps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
